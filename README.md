@@ -3,7 +3,7 @@
 **Customer Churn Prediction Using Artificial Neural Networks (ANN)**
 
 ## Overview
-This assignment involves building a three-layered Artificial Neural Network (ANN) to predict whether a bank customer is likely to leave based on their profile and activity history. The model will be trained and evaluated using the `Churn_Modelling.csv` dataset.
+This assignment involves building a three-layered Artificial Neural Network (ANN) to predict whether a bank customer is likely to leave based on their profile and activity history. The model will be trained and evaluated using the `Churn_Modelling.csv` dataset. Will not be tuning hyperparameters or using callbacks on this specific model.
 
 ---
 
