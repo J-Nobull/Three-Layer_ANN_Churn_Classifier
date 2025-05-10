@@ -50,11 +50,11 @@ This assignment involves building a three-layered Artificial Neural Network (ANN
 
 ---
 
-## Modeling
-* Used `OneHotEncoder` or `pd.get_dummies()` for geography
-* Used `LabelEncoder` for binary categorical columns like gender
-* Used `StandardScaler` from `sklearn` for scaling features
-* May use `Sequential` model from `tensorflow.keras.models`
-* Used `model.evaluate()` and `confusion_matrix()` from `sklearn.metrics`
+## Modeling Options
+* Use `OneHotEncoder` or `pd.get_dummies()` for geography
+* Use `LabelEncoder` for binary categorical columns like gender
+* Use `StandardScaler` from `sklearn` for scaling features
+* Use `Sequential` model from `tensorflow.keras.models`
+* Use `model.evaluate()` and `confusion_matrix()` from `sklearn.metrics`
 
 ---
